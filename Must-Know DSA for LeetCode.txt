@@ -1,0 +1,163 @@
+Must-Know DSA for LeetCode
+1. Arrays & Strings
+
+Two Pointers (same direction, opposite direction, sliding window)
+
+Prefix Sum
+
+Kadane’s Algorithm (maximum subarray sum)
+
+Rotate / Reverse array techniques
+
+Matrix traversal (spiral, diagonals, islands)
+
+2. Hashing
+
+HashMap / HashSet for constant time lookups
+
+Frequency counters (word count, character count)
+
+Problems: Anagrams, Subarray Sum = K, Two Sum, Group Anagrams
+
+3. Linked List
+
+Reverse linked list (iterative + recursive)
+
+Detect cycle (Floyd’s cycle detection)
+
+Merge two sorted lists
+
+Find middle node (slow/fast pointers)
+
+Reorder list, LRU Cache
+
+4. Stacks & Queues
+
+Balanced parentheses
+
+Monotonic stack (Next Greater Element, Stock Span, Trapping Rain Water)
+
+Min Stack / Max Stack
+
+Queue with two stacks
+
+Sliding Window Maximum (Deque)
+
+5. Trees
+
+Binary Tree Traversals (DFS, BFS)
+
+Binary Search Tree operations (insert, search, delete)
+
+Lowest Common Ancestor
+
+Maximum Depth, Diameter
+
+Serialize / Deserialize Binary Tree
+
+Level Order Traversal (using Queue)
+
+6. Heaps / Priority Queue
+
+Kth Largest / Smallest
+
+Merge K sorted lists
+
+Top K frequent elements
+
+Heapify, MinHeap, MaxHeap
+
+7. Graphs
+
+BFS, DFS (adjacency list, adjacency matrix)
+
+Topological Sort (Kahn’s Algorithm / DFS)
+
+Dijkstra’s Algorithm (shortest path)
+
+Union-Find (Disjoint Set Union – DSU)
+
+Detect cycle in graph
+
+Number of islands, Connected components
+
+8. Recursion & Backtracking
+
+Subsets, Permutations, Combinations
+
+N-Queens Problem
+
+Word Search
+
+Sudoku Solver
+
+Generate Parentheses
+
+9. Dynamic Programming (DP)
+
+Classic 1D DP:
+
+Fibonacci, Climbing Stairs
+
+House Robber, Coin Change
+
+Longest Increasing Subsequence
+
+2D DP:
+
+Longest Common Subsequence (LCS)
+
+Edit Distance
+
+0/1 Knapsack
+
+Unique Paths
+
+DP on Strings (palindromes, substring problems)
+
+10. Greedy Algorithms
+
+Interval Scheduling / Merge Intervals
+
+Minimum Platforms / Meeting Rooms
+
+Huffman Coding
+
+Gas Station problem
+
+Jump Game
+
+11. Bit Manipulation
+
+Single Number (XOR trick)
+
+Subsets using bitmask
+
+Bitwise AND/OR/XOR basics
+
+Power of Two check
+
+Count set bits (Brian Kernighan’s Algorithm)
+
+12. Advanced (for top-tier prep)
+
+Segment Trees / Fenwick Trees (Range queries)
+
+Tries (Prefix tree) – Word Dictionary, Autocomplete
+
+Binary Search on Answer (Median of Two Sorted Arrays, Split Array Largest Sum)
+
+Math & Number Theory (GCD, Modular arithmetic, Sieve of Eratosthenes)
+
+🛠️ Strategy for LeetCode
+
+Master Patterns, not just problems
+(Sliding window, two pointers, binary search, DP on subsequences, etc.)
+
+Solve Easy → Medium → Hard progressively
+
+Start with Top 100 LeetCode problems.
+
+Track weak areas (e.g., DP, graphs) and focus more there.
+
+Re-solve after a few days to reinforce.
